@@ -1,0 +1,14 @@
+[
+  {
+    "id": "1773650249782",
+    "name": "mac",
+    "content": "[Gateway]: /bin/sh: /Users/mima0000/Library/Application: is a directory",
+    "timestamp": "2026-03-16T08:37:29.782Z"
+  },
+  {
+    "id": "1773647634587",
+    "name": "mac",
+    "content": "[Bootstrap] Download and install failed: Error: /bin/sh: /Users/mima0000/Library/Application Support/zhihui-ai-toolbox/openclaw/install.sh: /bin/bash^M: bad interpreter: No such file or directory      at downloadAndInstallOpenClaw (useBootstrap.ts:127:13)     at async Object.execute (useBootstrap.ts:255:27)     at async useBootstrap.ts:330:9",
+    "timestamp": "2026-03-16T07:53:54.587Z"
+  }
+]
